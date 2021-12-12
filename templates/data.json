@@ -6,6 +6,13 @@
     "width": 154,
     "height": 286
   },
+  "alice": {
+    "name": "alicee.png",
+    "x": 9607,
+    "y": 2941,
+    "width": 350,
+    "height": 140
+  },
   "oldbase": {
     "name": "oldbase.png",
     "x": -1002,
